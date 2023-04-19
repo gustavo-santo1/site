@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+margin: auto;
+background-color: dimgrey;
+}
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+#texto1{
+
+}
+#an1{
+
+}
+#an2{
+
+}
+#an3{
+
+}
+#botao{
+
+}
