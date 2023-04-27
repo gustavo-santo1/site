@@ -1,9 +1,23 @@
 div{
-    display: inline-block;
+display: inline-block;
+    margin: 10px;
+}
+.div1{
+    background-color: burlywood;
+    height: 100px;
+    width: 200px;
+}
+.div2{
+    background-color: rgb(153, 134, 57);
+    height: 100px;
+    width: 200px;
 }
 .div3{
-    
+    background-color: coral;
+    height: 100px;
+    width: 200px;
 }
 .seçao{
-    
+   background-color: rgb(141, 180, 167); 
+   padding: 10px;
 }
